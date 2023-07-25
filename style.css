@@ -1,0 +1,14 @@
+h1 {
+    background-color: mediumblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+    text-align: center;
+}
+
+.index{
+    background-color: lightsteelblue;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: indigo;
+}
