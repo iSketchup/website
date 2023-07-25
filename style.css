@@ -2,7 +2,6 @@ h1 {
     background-color: mediumblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: aqua;
-    text-align: center;
 }
 
 .index{
@@ -11,4 +10,16 @@ h1 {
 p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: indigo;
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-width: 40px;
+    border-color: lightslategrey;
+    border-radius: 33pt;
+}
+* {
+    text-align: center;
 }
