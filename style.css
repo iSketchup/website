@@ -7,6 +7,7 @@ p{
 }
 img {
     display: block;
+    width: 50em;
     margin-right: auto;
     margin-left: auto;
     border-style: solid;
