@@ -1,25 +1,48 @@
 h1 {
-    background-color: mediumblue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: aqua;
+    color: rgb(223, 216, 40);
 }
 
-.index{
-    background-color: lightsteelblue;
-}
 p{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: indigo;
+    color: rgb(225, 234, 57);
 }
 img {
     display: block;
     margin-right: auto;
     margin-left: auto;
     border-style: solid;
-    border-width: 40px;
-    border-color: lightslategrey;
-    border-radius: 33pt;
+    border-width: 0px;
+    border-color: rgb(225, 234, 57);
+    ;
+    border-radius: 2pt;
 }
 * {
     text-align: center;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+.topbar{
+background-color: rgb(7, 87, 84);
+margin: auto;
+padding: 2em;
+text-align: right;
+overflow: hidden;
+}
+
+.topbar a {
+    float: right;
+    color: rgb(98, 161, 90);
+    padding:  16px;
+    padding-bottom: 12px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.topbar a:hover{
+    background-color: rgb(98, 161, 90);
+    color: rgb(7, 87, 84);
+}
+
+.index {
+    background-color: rgb(17, 24, 16);
 }
