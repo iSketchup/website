@@ -43,6 +43,9 @@ margin-top: 0em;
     margin: 0px;
     padding: 0px;
 }
+iframe{
+    padding: 2em;
+}
 .topbar{
 background-color: rgb(7, 87, 84);
 margin: auto;
@@ -58,6 +61,7 @@ overflow: hidden;
     padding-bottom: 12px;
     text-decoration: none;
     font-size: 30px;
+    margin-bottom: 0em;
 }
 
 .topbar a:hover{
