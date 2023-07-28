@@ -1,20 +1,41 @@
 h1 {
+    color: rgb(225, 234, 57);
+}
+h2{
+    color:rgb(223, 216, 40) ;
+}
+h2 a{
+ text-decoration: none;
+ color:rgb(249,255,137);
+}
+h2 a:hover{
     color: rgb(223, 216, 40);
 }
 
+.abouth{
+    padding-top: 2em;
+}
 p{
     color: rgb(225, 234, 57);
+    white-space: pre-wrap;
+
 }
-img {
+.img1 {
     display: block;
-    width: 50em;
     margin-right: auto;
     margin-left: auto;
     border-style: solid;
-    border-width: 0px;
-    border-color: rgb(225, 234, 57);
-    ;
     border-radius: 2pt;
+}
+
+.Ish{
+ color: rgb(225, 234, 57);
+ text-decoration: none;
+ padding-top: 2em;
+ display: block;
+margin: auto;
+margin-top: 0em;
+
 }
 * {
     text-align: center;
@@ -42,6 +63,7 @@ overflow: hidden;
 .topbar a:hover{
     background-color: rgb(98, 161, 90);
     color: rgb(7, 87, 84);
+    border-radius: 12px;
 }
 
 .index {
