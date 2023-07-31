@@ -14,11 +14,23 @@ h2 a:hover{
 
 .abouth{
     padding-top: 2em;
+    font-size: 40px;
+    text-align: right;
+    padding-right: 1.25em;
+    line-height: 2.5em;
+}
+.pink{
+    padding-top: 2em;
+}
+.Luis{
+    padding-right: 2.5em;
+    line-height: 2.5em;
+    font-size: 20px;
+    text-align: right;
+
 }
 p{
     color: rgb(225, 234, 57);
-    white-space: pre-wrap;
-
 }
 .img1 {
     display: block;
@@ -27,7 +39,10 @@ p{
     border-style: solid;
     border-radius: 2pt;
 }
-
+.raw{
+    display: block;
+    
+}
 .Ish{
  color: rgb(225, 234, 57);
  text-decoration: none;
@@ -37,14 +52,23 @@ margin: auto;
 margin-top: 0em;
 
 }
+b{
+    color: rgb(225, 234, 57);
+    white-space: pre-wrap;
+    font-size: 20px;
+}
 * {
     text-align: center;
     border: 0px;
     margin: 0px;
     padding: 0px;
+    white-space: nowrap;
 }
 iframe{
-    padding: 2em;
+    padding-top: 2em;
+}
+.iframes{
+    padding-top: 0em;
 }
 .topbar{
 background-color: rgb(7, 87, 84);
@@ -60,7 +84,7 @@ overflow: hidden;
     padding:  16px;
     padding-bottom: 12px;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 2.5em;
     margin-bottom: 0em;
 }
 
