@@ -29,6 +29,115 @@ h2 a:hover{
     text-align: right;
 
 }
+.lh1{
+    padding: 1em;
+    font-size: 30px;
+}
+.lh2{
+    padding: 1em;
+}
+p{
+    color: rgb(225, 234, 57);
+}
+.img1 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-radius: 2pt;
+    padding: 1em;
+    padding-top: 1em;    
+}
+.raw{
+    display: block;
+    
+}
+.Ish{
+ color: rgb(225, 234, 57);
+ text-decoration: none;
+ padding-top: 2em;
+ display: block;
+margin: auto;
+margin-top: 0em;
+
+}
+b{
+    color: rgb(225, 234, 57);
+    white-space: pre-wrap;
+    font-size: 20px;
+}
+* {
+    text-align: center;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    white-space: nowrap;
+}
+iframe{
+    padding-top: 2em;
+}
+.iframes{
+    padding-top: 0em;
+}
+.topbar{
+background-color: rgb(7, 87, 84);
+margin: auto;
+padding: 2em;
+text-align: right;
+overflow: hidden;
+}
+
+.topbar a {
+    float: right;
+    color: rgb(98, 161, 90);
+    padding:  16px;
+    padding-bottom: 12px;
+    text-decoration: none;
+    font-size: 2.5em;
+    margin-bottom: 0em;
+}
+
+.topbar a:hover{
+    background-color: rgb(98, 161, 90);
+    color: rgb(7, 87, 84);
+    border-radius: 12px;
+}
+
+.index {
+    background-color: rgb(17, 24, 16);
+}
+@media screen and (max-device-width: 60em){
+h1 {
+    color: rgb(225, 234, 57);
+}
+h2{
+    color:rgb(223, 216, 40) ;
+}
+h2 a{
+ text-decoration: none;
+ color:rgb(249,255,137);
+}
+h2 a:hover{
+    color: rgb(223, 216, 40);
+}
+
+.abouth{
+    padding-top: 2em;
+    font-size: 40px;
+    text-align: right;
+    padding-right: 1.25em;
+    line-height: 2.5em;
+}
+.pink{
+    padding-top: 2em;
+}
+.Luis{
+    padding-right: 2.5em;
+    line-height: 2.5em;
+    font-size: 20px;
+    text-align: right;
+
+}
 p{
     color: rgb(225, 234, 57);
 }
@@ -96,4 +205,4 @@ overflow: hidden;
 
 .index {
     background-color: rgb(17, 24, 16);
-}
+}}
