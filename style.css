@@ -11,30 +11,27 @@ h2 a{
 h2 a:hover{
     color: rgb(223, 216, 40);
 }
-
-.abouth{
-    padding-top: 2em;
-    font-size: 40px;
-    text-align: right;
-    padding-right: 1.25em;
-    line-height: 2.5em;
-}
 .pink{
     padding-top: 2em;
-}
-.Luis{
-    padding-right: 2.5em;
-    line-height: 2.5em;
-    font-size: 20px;
-    text-align: right;
-
 }
 .lh1{
     padding: 1em;
     font-size: 30px;
+    line-height: 1.5;
 }
 .lh2{
     padding: 1em;
+}
+.jk{
+    text-align: center;
+    line-height: 2.5em;
+    font-size: 40px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.jk p{
+    font-size: 30px;
 }
 p{
     color: rgb(225, 234, 57);
@@ -47,10 +44,6 @@ p{
     border-radius: 2pt;
     padding: 1em;
     padding-top: 1em;    
-}
-.raw{
-    display: block;
-    
 }
 .Ish{
  color: rgb(225, 234, 57);
