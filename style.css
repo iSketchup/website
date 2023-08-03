@@ -30,6 +30,19 @@ h2 a:hover{
     margin-right: auto;
     margin-left: auto;
 }
+.baouth{
+    padding-top: 2em;
+}
+h3{
+    padding: 0.5em;
+    color: rgb(223, 216, 40);
+}
+.img3{
+    padding: 2em;
+}
+li{
+    color: rgb(223, 216, 40);
+}
 .jk p{
     font-size: 30px;
 }
