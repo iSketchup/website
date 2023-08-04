@@ -127,22 +127,47 @@ h2 a:hover{
     color: rgb(223, 216, 40);
 }
 
-.abouth{
-    padding-top: 2em;
-    font-size: 40px;
-    text-align: right;
-    padding-right: 1.25em;
-    line-height: 2.5em;
+.h22 {
+    text-decoration: none;
+    color:rgb(249,255,137);
 }
+.h22 hover{
+       color: rgb(223, 216, 40);
+    }
 .pink{
     padding-top: 2em;
 }
-.Luis{
-    padding-right: 2.5em;
+.lh1{
+    padding: 1em;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.lh2{
+    padding: 1em;
+}
+.jk{
+    text-align: center;
     line-height: 2.5em;
-    font-size: 20px;
-    text-align: right;
-
+    font-size: 40px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.baouth{
+    padding-top: 2em;
+}
+h3{
+    padding: 0.5em;
+    color: rgb(223, 216, 40);
+}
+.img3{
+    padding: 2em;
+}
+li{
+    color: rgb(223, 216, 40);
+}
+.jk p{
+    font-size: 30px;
 }
 p{
     color: rgb(225, 234, 57);
@@ -153,10 +178,8 @@ p{
     margin-left: auto;
     border-style: solid;
     border-radius: 2pt;
-}
-.raw{
-    display: block;
-    
+    padding: 1em;
+    padding-top: 1em;    
 }
 .Ish{
  color: rgb(225, 234, 57);
